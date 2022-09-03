@@ -1,0 +1,29 @@
+#console {
+  width: 30vw;
+  height: 100vh;
+  color: azure;
+  padding: 20px;
+
+  overflow-y: scroll;
+}
+
+.code {
+  height: auto;
+  word-wrap: break-word;
+}
+
+#console-number {
+  color: #50fa7b;
+}
+
+#console-boolean {
+  color: #ff79c6;
+}
+
+#console-string {
+  color: #f1fa8c;
+}
+
+#console-error {
+  color: #f37093;
+}
